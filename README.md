@@ -1,6 +1,6 @@
 # PowerBI_dashboard
 Problem statement - AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
-Using the data provided by AtliQ Grands we have to build a dashboard which gives a comprehensive overview of the data and improves decision making by providing the insights about the data.
+Using the data provided by AtliQ Grands we have to build a dashboard with comprehensive overview of the data to improves decision making by providing the insights about the data.
 
 # Some Key-metrics to be considered to build a dashboard in hospitality domain
 1.	Revenue – The total revenue realized.
